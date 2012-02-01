@@ -20,5 +20,5 @@ xfer.sh
 
 libdvdcss2.py
 
-  A Python module that wraps libdvdcss2 using ctypes. Used to descrypt the
+  A Python module that wraps libdvdcss2 using ctypes. Used to decrypt the
   DVDs during ripping.
