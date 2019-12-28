@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd `dirname $0`
+cd `dirname $0`/rip
 
 while true; do
     f=`ls *.iso | head -n 1`
